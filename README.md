@@ -1,4 +1,4 @@
-# image_segmentation_data_prep
+# Data Preparation to Train an Image Segmentation Model
 
 A simple python program that labels UI elements in Super Mario Bros NES (1985) to be fed into a UI segmentation model. Pixels that correspond to text UI elements are labelled with white.The gold icon at the top of the screen is a different type of UI element (not text), so the pixels corresponding to it are labelled with magenta.  
 
