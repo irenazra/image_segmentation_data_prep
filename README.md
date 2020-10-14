@@ -1,6 +1,6 @@
 # image_segmentation_data_prep
 
-A simple python program that identifies UI elements in Super Mario Bros NES (1985) to be fed into a UI segmentation model.UI elements that are text are labelled with white. When an enemy is destroyed a score is earned and printed on the screen. Since this text can appear at various locations on the screen, template matching is used to detect it. The gold icon at the top of the screen is a different type of UI element (not text), so it is labelled with magenta.
+A simple python program that labels UI elements in Super Mario Bros NES (1985) to be fed into a UI segmentation model.UI elements that are text are labelled with white. When an enemy is destroyed a score is earned and printed on the screen. Since this text can appear at various locations on the screen, template matching is used to detect it. The gold icon at the top of the screen is a different type of UI element (not text), so it is labelled with magenta.
 
 ## Technologies
 
