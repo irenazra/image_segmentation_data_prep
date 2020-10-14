@@ -17,7 +17,7 @@ Program can be used by running the mario_bros_label_data.py file. The game scree
 Below is an example of a screen shot from the game and the output of this program when given that screen shot. 
 
 ![](images/f.png)
-![](example_results/result_f.png)
+![](example_results/resultf.png)
 
 
 
