@@ -89,6 +89,6 @@ def identify_ui (file_name):
 
    
 if __name__ == "__main__":
-
+    
     for fileName in glob.glob("images/*.png"):
         identify_ui(fileName)
